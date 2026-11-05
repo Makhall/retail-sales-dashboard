@@ -30,6 +30,6 @@ The raw data was cleaned and transformed before being loaded into this dashboard
 Open your terminal and run:
 
 ```bash
-git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-cd YOUR-REPO-NAME
+git clone https://github.com/Makhall/retail-sales-dashboard.git
+cd retail-sales-dashboard
 ```
